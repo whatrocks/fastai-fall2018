@@ -14,7 +14,7 @@
 - [ ] Set up Paperspace
 - [ ] Set up Salamander
 - [ ] Set up SageMaker
-- [ ] Set up FloydHub
+- [x] Set up FloydHub
 - [ ] Create a "Platform: FloydHub" page in fast.ai forum
 - [ ] Submit PR to the v3 courseware repo for FloydHub
 - [ ] Read [Class One resources](https://forums.fast.ai/t/lesson-1-class-discussion-and-resources/27332)
