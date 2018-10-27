@@ -3,7 +3,7 @@
 ## Class To-do List
 - [ ] Bring water bottle to class!
 - [x] Apply Google discount to GCP
-- [ ] Apply AWS discount to AWS
+- [x] Apply AWS discount to AWS
 - [x] Set up Slack for Group 23
 - [ ] Schedule study session for next Wednesday
 - [ ] Try out [Gist.it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/gist_it/readme.html)
@@ -15,7 +15,7 @@
 - [ ] Set up Salamander
 - [ ] Set up SageMaker
 - [x] Set up FloydHub
-- [ ] Create a "Platform: FloydHub" page in fast.ai forum
+- [x] Create a "Platform: FloydHub" page in fast.ai forum
 - [ ] Submit PR to the v3 courseware repo for FloydHub
 - [ ] Read [Class One resources](https://forums.fast.ai/t/lesson-1-class-discussion-and-resources/27332)
 - [ ] Get a timetracker app (look up what Analogue podcast suggests)
