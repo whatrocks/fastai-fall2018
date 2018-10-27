@@ -2,7 +2,7 @@
 
 ## Class To-do List
 - [ ] Bring water bottle to class!
-- [ ] Apply Google discount to GCP
+- [x] Apply Google discount to GCP
 - [ ] Apply AWS discount to AWS
 - [x] Set up Slack for Group 23
 - [ ] Schedule study session for next Wednesday
