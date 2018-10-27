@@ -24,6 +24,11 @@
 - [ ] Regular expressions guide
 - [ ] Flashcards for powers of 2
 - [ ] Flashcards for binary numbers
+- [x] Complete notebook tutorial
+- [ ] Complete lesson 1
+- [ ] Complete download images notebook
+- [ ] Flashcards for binary numbers
+- [ ] Flashcards for binary numbers
 
 ## Extra Credit To-Do List
 - Create Anki deck for Fast.ai
