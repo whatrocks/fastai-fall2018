@@ -1,10 +1,16 @@
 # Lecture One
 
 ## Class To-do List
-- [ ] Bring water bottle to class!
+- [x] Bring water bottle to class!
 - [x] Apply Google discount to GCP
 - [x] Apply AWS discount to AWS
 - [x] Set up Slack for Group 23
+- [x] Set up FloydHub
+- [x] Create a "Platform: FloydHub" page in fast.ai forum
+- [x] Submit PR to the v3 courseware repo for FloydHub
+- [x] Complete notebook tutorial
+- [x] Complete lesson 1
+- [x] Complete download images notebook
 - [ ] Schedule study session for next Wednesday
 - [ ] Try out [Gist.it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/gist_it/readme.html)
 - [ ] Review [Python resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
@@ -14,9 +20,6 @@
 - [ ] Set up Paperspace
 - [ ] Set up Salamander
 - [ ] Set up SageMaker
-- [x] Set up FloydHub
-- [x] Create a "Platform: FloydHub" page in fast.ai forum
-- [ ] Submit PR to the v3 courseware repo for FloydHub
 - [ ] Read [Class One resources](https://forums.fast.ai/t/lesson-1-class-discussion-and-resources/27332)
 - [ ] Get a timetracker app (look up what Analogue podcast suggests)
 - [ ] Add Kaggle integration to FloydHub settings since they use Kaggle datasets
@@ -24,12 +27,12 @@
 - [ ] Regular expressions guide
 - [ ] Flashcards for powers of 2
 - [ ] Flashcards for binary numbers
-- [x] Complete notebook tutorial
-- [ ] Complete lesson 1
-- [ ] Complete download images notebook
-- [ ] Flashcards for binary numbers
-- [ ] Flashcards for binary numbers
 
+## Homework
+- [x] train your own dataset
+- [ ] set up api
+- [ ] write blog post
+  
 ## Extra Credit To-Do List
 - Create Anki deck for Fast.ai
 - Research / create easy way to create anki deck
@@ -106,11 +109,4 @@
   - detecing fraud with pictures of mouse clicks and movement
   - idea: make spectrogram of sound and fit to image. make non images into images
 - Hot dog or not
-  - built by tim a fast.ai student
-
-## Homework
-- train your own dataset
-- my ideas
-  - thanksgiving. train on pictures of cousins for your significant other
-  
- 
+  - built by tim a fast.ai student 
