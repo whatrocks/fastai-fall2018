@@ -1,23 +1,6 @@
-# todo list
-- [ ] Kaggle setup for FloydHub
-- [ ] Kaggle integration
-- [ ] Reach out to PG&E about blog post ideas
-- [ ] create api from week one
-- [ ] meme clean up tool as blog post from 'Show your work'
-- [ ] children's artwork GAN
-- [ ] YC company logo - will they fail or not based on their logo
-- [ ] set up Starlette on serving jobs
-- [ ] learn scientific notation
-- [ ] spit things to tensorboard with fastai
-- [ ] np.argmax (look this up)
-- Adam Geitgey (blogger) https://medium.com/@ageitgey
-- [ ] animated through the images like a slot machine, or pull from google images (frog project)
-- [ ] make gif from a jupyter notebook (visaliing the animation)
-- [ ] can i eat this mushroom ?
-
 ## pre-class notes
 
-* "further discussion" is for advanced students who already know DL, rest of discssuion is for beginners
+* "Further discussion" topics is for advanced students who already know DL, rest of discssuion is for beginners
 * Crestle GPU is now free for next few months
 
 ## notes
