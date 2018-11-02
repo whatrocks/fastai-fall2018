@@ -1,26 +1,27 @@
-## pre-class notes
+## Pre-class notes
 
 * "Further discussion" topics is for advanced students who already know DL, rest of discssuion is for beginners
 * Crestle GPU is now free for next few months
 
 ## notes
 
-* Computer vision
-* meme cleanup tool
-* turning sounds into pictures and using lesson one approach is genius
-* we will go back to computer vision and nlp several times
-* process
+* Applications of computer vision
+    * meme cleanup tool is a cool
+    * turning sounds into pictures and using lesson one approach is genius
+* We will go back to computer vision and nlp several times
+* Our process
     - code first: focus on learning from experiment
-    - the whle game: its like learning soccer as a code
+    - the whole game: its like learning soccer as a code
     - concepts not details: we will dig into them all later
     - do lesson 2: even if you dont understand it all
-* if you're stuck, keep going!
-* download notebook
+* Motto: if you're stuck, keep going!
+
+### Reviewing last week
 * how to create your own classifier with your own images
 * create a teddy bear detector, separating teddy bears, from grizzly bears, to black bears
 * don't forget to remove things that aren't images
-* get_transforms() - relisten to this
-* it is important to always have the same validation set. he liks the random seed.
+* get_transforms() - relisten to this part!
+* it is important to always have the same validation set, but he likes the random seed
 * you could do better if your dataset was less noisy, so we want to clean it up
 * computer expert + human learner is a good skill. this is a great skill. combine your domain expert with computer science.
 * serving model
@@ -33,8 +34,9 @@
     - Doesn't need to cost you any money
     - Jeremy wants to see what you can make of that.
 * you can build apps in jupyter notebook
-* he thinks creating apps within notebooks is really need and underused
-* Problems
+* He thinks creating apps within notebooks is really need and underused
+
+### Problems you might have
     - learning rate too high or low
     - epochs number is too high or low
 * learning rate
@@ -42,8 +44,7 @@
     - learning rate too small, error rate gets better but too slowly
         - traning loss higher than validation loss. this is bad. learning rate is too low, number of epoches is too low
 * too few epochs
-    -  looks similar to too low learning rate
-    - 
+    -  looks similar to too low learning rate 
 * too many epochs
     - it will learn your teddies but not teddies in general
 * overfitting: error rate will improve for a while, and then gets a bit worse. that's the only way you know if you're overfitting.
@@ -90,7 +91,7 @@ Watch video and check the vocab and make an anki deck
 
 Make anki-deck as a github repo
 
-* rachels talk no such thing that theres not a match person
+* rachels talk no such thing that theres not a math person
 
 
 OVERFITTING / UNDERFITTING
