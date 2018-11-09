@@ -1,0 +1,2 @@
+machine: gpu
+env: pytorch-1.0
