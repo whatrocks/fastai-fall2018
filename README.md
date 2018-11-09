@@ -1,6 +1,8 @@
 # fastai-fall2018
 Notes from the USCF Deep Learning course (fast.ai v3)
 
+[![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
+
 ## Resources
 - [Course Guide](http://course-v3.fast.ai/index.html)
 - [Forum](https://forums.fast.ai/c/part1-v3)
