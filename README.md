@@ -7,12 +7,10 @@ Notes from the USCF Deep Learning course (fast.ai v3)
 - [Course Guide](http://course-v3.fast.ai/index.html)
 - [Forum](https://forums.fast.ai/c/part1-v3)
 
-## FloydHub Blog posts
+## Blog posts ideas
 - [ ] Week One: Building a Facial Recognition App to Make it Through Your Significant Other's Thanksgiving Dinner
 - [ ] Week Two: Training a Linear Regression Model with Fast.ai and PyTorch
-- [ ] Reach out to PG&E about blog post ideas for sponsoring Fast.ai
-
-## Charlie Blog posts
+- [ ] Week Three: Pizza Multi-Label Classifier
 - [ ] blog post about untarring and tarring data
 - [ ] Regular expressions guide
 - [ ] Flashcards for powers of 2
@@ -34,6 +32,8 @@ Notes from the USCF Deep Learning course (fast.ai v3)
 - [x] Complete lesson 1
 - [x] Complete download images notebook
 - [x] Read [Class One resources](https://forums.fast.ai/t/lesson-1-class-discussion-and-resources/27332)
+- [x] train your own dataset
+- [x] create an app
 - [ ] Try out [Gist.it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/gist_it/readme.html)
 - [ ] Review [Python resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 - [ ] Do [numpy tutorial](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
@@ -42,14 +42,11 @@ Notes from the USCF Deep Learning course (fast.ai v3)
 - [ ] Set up Paperspace
 - [ ] Set up Salamander
 - [ ] Set up SageMaker
-- [x] train your own dataset
-- [ ] create an APP for each class?
+
 
 ### Week two
 
 - [ ] Kaggle setup and integration for FloydHub
-- [ ] create api from week one
-- [ ] BLOG: meme clean up tool as blog post from 'Show your work'
 - [ ] IDEA: children's artwork GAN
 - [ ] IDEA: YC company logo - will they fail or not based on their logo
 - [ ] set up Starlette/responder on serving jobs
@@ -58,3 +55,19 @@ Notes from the USCF Deep Learning course (fast.ai v3)
 - [ ] BLOG: Adam Geitgey (blogger) https://medium.com/@ageitgey
 - [ ] animated through the images like a slot machine, or pull from google images (frog project)
 - [ ] make gif from a jupyter notebook (visaliing the animation)
+
+
+## Week Three
+
+- [ ] Add FloydHub to Production section
+- [ ] JOSHFP blog post about SGD. this is insanely useful.
+
+
+## Week Four
+
+- [ ] finish blog post about cousins
+- [ ] pizza categorization
+- [x] move week 3 notes (and these) to github
+- [ ] language model that understands code (write lex, tokenizer) (sloppy code, good code). downloda this from leetcode?. this could grade your code as you type. will it compile before you run it. will it do what you want?
+- [ ] html / ast (tree models)
+- [ ] something with computer chips like 8-bit guy
