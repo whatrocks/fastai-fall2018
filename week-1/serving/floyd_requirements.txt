@@ -1,2 +1,2 @@
-fastai==1.0.19
+fastai==1.0.22
 flask
