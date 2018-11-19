@@ -19,6 +19,7 @@ Notes from the USCF Deep Learning course (fast.ai v3)
 - [ ] Research / create easy way to create anki deck
 - [ ] research how to connect anki deck to github
 - [ ] learn scientific notation
+- [ ] salad bowl DL game
 
 ## Week one
 - [x] Bring water bottle to class!
