@@ -1,26 +1,31 @@
 <!doctype html>
 <html>
   <head>
-    <title>Clabby Cousin Recognizer</title>
+    <title>☘️ Clabby Recognizer</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <style type="text/css">
       html, body {
         height: 100%;
+        font-family: Menlo, monospace;
       }
       .root-container {
         min-height: 100%;
         position: relative;
         padding-bottom: 6rem;
+        background-color: rgb(0, 209, 193);
       }
       footer {
         position: absolute;
         bottom: 0;
-        height: 6rem;
+        height: 5rem;
         width: 100%;
         text-align: center;
         padding: 1rem;
+        background-color: #f4f7f8;
+        font-size: 1.75rem;
+        font-weight: 300;
       }
       footer > a {
         margin-left: 0.2rem;
@@ -34,7 +39,6 @@
     <div class="root-container">
 
       {% block body %}{% endblock %}
-
       <footer>
         <span>Powered by</span>
         <a href="https://floydhub.com">
